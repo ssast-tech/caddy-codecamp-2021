@@ -190,7 +190,7 @@ admin.example.com {
 }
 ```
 
-Files under different VHosts are completed seperate
+Files under different VHosts are completely seperate
 
 ```mermaid
 graph LR
