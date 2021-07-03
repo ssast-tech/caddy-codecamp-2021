@@ -3,7 +3,7 @@ theme: seriph
 highlighter: shiki
 layout: image-right
 themeConfig: {'primary': '#479d2d'}
-image: ./images/caddy-circle-lock.svg
+image: https://raw.githubusercontent.com/ssast-tech/caddy-codecamp-2021/master/images/caddy-circle-lock.svg
 class: 'flex flex-col justify-center'
 title: 'Caddy - SSAST 2021 Summer Codecamp'
 ---
