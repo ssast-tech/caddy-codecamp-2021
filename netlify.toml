@@ -6,6 +6,25 @@
   command = "yarn build"
 
 [[redirects]]
+  from = "/img/*"
+  to = "/img/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/assets/*"
+  to = "/assets/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/slidev-exported.pdf"
+  to = "/slidev-exported.pdf"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+  force = false
