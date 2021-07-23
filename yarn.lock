@@ -179,7 +179,7 @@
     prism-theme-vars "^0.2.2"
     theme-vitesse "^0.1.11"
 
-"@slidev/theme-seriph@*":
+"@slidev/theme-seriph@^0.19.1":
   version "0.19.1"
   resolved "https://registry.nlark.com/@slidev/theme-seriph/download/@slidev/theme-seriph-0.19.1.tgz#96ba9bd5d0e37fdc2be6b2dfe7681dea52a0f549"
   integrity sha1-lrqb1dDjf9wr5rLf52gd6lKg9Uk=

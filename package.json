@@ -12,5 +12,6 @@
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.12.3"
   },
-  "name": "caddy"
+  "name": "caddy",
+  "license": "MIT"
 }
